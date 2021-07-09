@@ -17,7 +17,7 @@ public class Start {
 //		
 //		Animale a1 = new Gatto();
 //		Animale a2 = new Gatto();
-//		
+//		ciao
 //		ra.add(a1);
 //		ra.add(a2);
 		
